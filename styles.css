@@ -92,7 +92,7 @@ html {
 /* END SKIP LINK STYLES */
 
 body {
-  font-family: sans-serif;
+  font-family: var(--mollefont);
   line-height: 1;
 }
 
