@@ -92,7 +92,7 @@ html {
 /* END SKIP LINK STYLES */
 
 body {
-  font-family: var(--mollefont);
+  font-family: "Molle";
   line-height: 1;
 }
 
@@ -110,7 +110,7 @@ header {
 }
 
 h1, h2, h3 {
-  font-family: var(--mollefont);
+  font-family: "Molle";
 }
 
 h1 {
